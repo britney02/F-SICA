@@ -1,0 +1,75 @@
+
+header{
+    text-align: center;
+    font-style: italic; 
+    font-weight: bold;
+    font-size: x-large;
+    color: rgba(95, 0, 40, 0.692);
+    background-color: rgb(255, 205, 213);
+}
+#logo{
+    width:  150px;
+    background-color: rgb(255, 205, 213);
+}
+.navbar-brand{
+    background-color: rgb(255, 205, 213);
+    color: rgb(255, 205, 213);
+}
+nav{
+    border: solid 3px rgb(255, 205, 213);
+    background-color: rgb(255, 205, 213);
+    color: rgb(255, 205, 213);
+}
+.nav-link {
+    text-align: center;
+    background-color:rgb(255, 205, 213);
+    color: rgb(255, 205, 213);
+}
+
+
+h1{
+    text-align: center;
+    color: rgba(95, 0, 40, 0.692);
+    border: solid 1px white;
+    margin: 50px;
+    padding: 50px;
+}
+
+#subtitulo{
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 600;
+    color: brown
+}
+
+h2{
+    font-size: xx-large;
+    color: rgba(95, 0, 40, 0.692);
+    font-style: normal;
+}
+
+.cursada{
+    border: solid 5px rgba(95, 0, 40, 0.692);
+    margin: 100px;
+    background: rgb(255, 205, 213);
+    padding: 60px;
+    font-size: large;
+    font-style: italic;
+}
+
+.guias{
+    border: solid 5px rgba(95, 0, 40, 0.692);
+    margin: 100px;
+    background: rgb(255, 205, 213);
+    padding: 60px;
+    font-size: large;
+    font-style: italic;
+}
+
+footer{
+    border: solid 100px 0px white;
+    background-color: rgba(95, 0, 40, 0.692);
+    padding: 20px;
+    color: rgb(255, 205, 213);
+}
